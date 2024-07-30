@@ -1,0 +1,55 @@
+# Juego de Memoria con Números
+
+Este es un juego de memoria clásico donde el objetivo es encontrar todas las parejas de números en el menor tiempo posible y con el menor número de movimientos.
+
+## Tabla de Contenidos
+
+- [Descripción](#descripción)
+- [Características](#características)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Contribuciones](#contribuciones)
+- [Autor](#autor)
+
+
+## Descripción
+
+El juego de memoria consiste en una tabla de tarjetas que se voltean para revelar un número oculto. El jugador debe encontrar las parejas de números idénticos. Cada vez que se encuentra una pareja, estas permanecen destapadas. El objetivo es destapar todas las parejas en el menor tiempo posible y con el menor número de movimientos.
+
+## Características
+
+- **Contador de movimientos**: Muestra el número de movimientos realizados.
+- **Contador de aciertos**: Muestra el número de parejas encontradas.
+- **Temporizador**: Cuenta regresiva de 30 segundos para completar el juego.
+- **Bloqueo de tarjetas**: Si el tiempo se acaba o se encuentra una pareja, las tarjetas se bloquean.
+- **Estadísticas finales**: Muestra el número de movimientos y el tiempo utilizado al completar el juego.
+
+## Instalación
+
+1. Clona este repositorio en tu máquina local:
+    ```bash
+    git clone https://github.com/DiegoHiguita1304/memory-game.git
+    ```
+2. Navega hasta el directorio del proyecto:
+    ```bash
+    cd memory-game
+    ```
+
+## Uso
+
+1. Abre el archivo `index.html` en tu navegador web preferido.
+2. Haz clic en las tarjetas para destaparlas y encontrar las parejas.
+
+## Tecnologías Utilizadas
+
+- **HTML**: Estructura del juego.
+- **CSS**: Estilos y diseño del juego.
+- **JavaScript**: Lógica del juego y manejo del DOM.
+
+## Contribuciones
+Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, puedes hacerlo a través de pull requests. Asegúrate de seguir las pautas de contribución.
+
+## Autor
+Diego Higuita - https://github.com/DiegoHiguita1304
+
